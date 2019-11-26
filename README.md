@@ -3,7 +3,7 @@
 
 import javax.swing.JFrame;
 
-public class CarExClient {
+public class CarClient {
 
 	public static void main(String[] args) {
 		JFrame frame = new JFrame();
